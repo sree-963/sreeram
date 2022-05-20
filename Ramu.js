@@ -14,7 +14,10 @@ const Ramu = () => {
     <div>
       <Functionprops name={name} age={age}/>
       <Eventhandler/><Clscomp/><Abc/>
-      <center> <h1> Name:{name} and having the age {age}</h1></center></div>
+      <center> <h1> Name:{name} and having the age {age}</h1></center>
+      <h2> Welcome To Hyderabad Mr Pamisetty Sreeram</h2>
+      
+      </div>
   )
 }
 
